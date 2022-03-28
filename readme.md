@@ -1,0 +1,2 @@
+Horiseon website 
+    Refactored to meet accessibility standards, this website will help anyone learn about Horiseon's services. Horiseon offeres services that help optimize a business's online presence. As such, the company's website is fully optimized for search and accessibility features. 
